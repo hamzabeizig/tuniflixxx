@@ -9,7 +9,44 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18797767-90f0-4e2f-a92d-79ac2fedbcb8" name="Changes" comment="" />
+    <list default="true" id="18797767-90f0-4e2f-a92d-79ac2fedbcb8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/AppExecutors.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/AppExecutors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/GridSpacingItemDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/GridSpacingItemDecoration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ThreeTwoImageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ThreeTwoImageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/TwoThreeImageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/TwoThreeImageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/data/DateConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/data/DateConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/data/MovieDataSourceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/data/MovieDataSourceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/data/MovieEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/data/MovieEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/data/MoviePreferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/data/MoviePreferences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/data/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/data/MovieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/model/Credits.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/model/Credits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/model/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/model/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/model/VideoResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/model/VideoResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/settings/SettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/settings/SettingsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/cast/CastFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/cast/CastFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/detail/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/detail/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/detail/DetailPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/detail/DetailPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/info/InfoViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/info/InfoViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/main/FavViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/main/FavViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/main/FavViewModelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/main/FavViewModelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/main/MainActivityViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/main/MainActivityViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/review/ReviewFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/review/ReviewFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/trailer/TrailerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/trailer/TrailerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/trailer/TrailerViewModelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/ui/trailer/TrailerViewModelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/utilities/TheMovieApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/utilities/TheMovieApi.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,9 +83,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android-custom-view/home/hamza/StudioProjects/tuniflix/tuniflix/src/main/java/com/example/android/tuniflix/ThreeTwoImageView.java_SELECTED" value="ThreeTwoImageView" />
+    <property name="android-custom-view/home/hamza/StudioProjects/tuniflix/tuniflix/src/main/java/com/example/android/tuniflix/TwoThreeImageView.java_SELECTED" value="TwoThreeImageView" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />

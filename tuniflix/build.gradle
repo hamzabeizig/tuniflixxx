@@ -12,14 +12,14 @@ android {
     }
     buildTypes {
         debug {
-            buildConfigField 'String', "API_KEY", PopularMoviesApp_ApiKey
-            resValue 'string', "api_key", PopularMoviesApp_ApiKey
+            buildConfigField 'String', "API_KEY", Tuniflix_ApiKey
+            resValue 'string', "api_key", Tuniflix_ApiKey
         }
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            buildConfigField 'String', "API_KEY", PopularMoviesApp_ApiKey
-            resValue 'string', "api_key", PopularMoviesApp_ApiKey
+            buildConfigField 'String', "API_KEY", Tuniflix_ApiKey
+            resValue 'string', "api_key", Tuniflix_ApiKey
         }
     }
     flavorDimensions "default"

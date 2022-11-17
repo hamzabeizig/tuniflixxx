@@ -11,6 +11,45 @@
   <component name="ChangeListManager">
     <list default="true" id="18797767-90f0-4e2f-a92d-79ac2fedbcb8" name="Changes" comment="hamza 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/free/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/free/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/utilities/FormatUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/java/com/example/android/tuniflix/utilities/FormatUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/comment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/comment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/face.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/face.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/favorite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/favorite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/favorite_border.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/favorite_border.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/list_item_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/list_item_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/movie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/movie.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/play_circle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/play_circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/review_item_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/drawable/review_item_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/activity_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/activity_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/activity_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/cast_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/cast_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/content_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/content_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/fav_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/fav_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/fragment_cast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/fragment_cast.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/fragment_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/fragment_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/fragment_review.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/fragment_review.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/fragment_trailer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/fragment_trailer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/movie_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/movie_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/review_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/review_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/layout/trailer_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/layout/trailer_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/menu/detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/menu/detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/menu/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/menu/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/values-v17/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/values-v17/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/values-v21/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/values/arrays.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/values/arrays.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuniflix/src/main/res/xml/pref_movie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuniflix/src/main/res/xml/pref_movie.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +87,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android-custom-view/home/hamza/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
     <property name="android-custom-view/home/hamza/StudioProjects/tuniflix/tuniflix/src/main/java/com/example/android/tuniflix/ThreeTwoImageView.java_SELECTED" value="ThreeTwoImageView" />
     <property name="android-custom-view/home/hamza/StudioProjects/tuniflix/tuniflix/src/main/java/com/example/android/tuniflix/TwoThreeImageView.java_SELECTED" value="TwoThreeImageView" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-xxxhdpi" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -59,6 +99,15 @@
   </component>
   <component name="PsdUISettings">
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-xxxhdpi" />
+      <recent name="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-xxhdpi" />
+      <recent name="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-xhdpi" />
+      <recent name="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-mdpi" />
+      <recent name="$PROJECT_DIR$/tuniflix/src/main/res/mipmap-hdpi" />
+    </key>
   </component>
   <component name="RunManager" selected="Android App.tuniflix">
     <configuration name="tuniflix" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">

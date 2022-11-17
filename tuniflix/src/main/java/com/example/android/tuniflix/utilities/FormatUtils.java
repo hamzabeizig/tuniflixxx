@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 import static com.example.android.tuniflix.utilities.Constant.ZERO;
 
 /**
- * Class for handling conversions that are useful for PopularMovies.
+ * Class for handling conversions that are useful for Tuniflix.
  */
 public class FormatUtils {
 

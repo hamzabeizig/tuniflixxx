@@ -24,4 +24,5 @@ Add `Tuniflix_ApiKey = "YOUR-API-KEY"` to that file.
 - [Picasso](http://square.github.io/picasso/) for image loading
 
 ## License
-Apache, see the [LICENSE](LICENSE) file.
+Apache, see the [LICENSE](LICENSE) file...
+Git
